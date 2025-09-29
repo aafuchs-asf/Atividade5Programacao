@@ -3,7 +3,7 @@ num = input('Digite um número inteiro: ')
 try:
     numInt = int(num)
 
-    if int(num) == 0:
+    if num == 0:
         print('Atenção! O número não pode ser 0.')
 
     else:    
